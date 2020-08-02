@@ -2,7 +2,12 @@
 
 Java based implementation of the classic arcade game. Features include sounds and graphics.
 There are three level to this game, with each level increasing with difficulty. As you progress, the aliens move increasingly quicker
-and fire more missiles at you. Can you stand up to the challenge of protecting Earth from the aliens?
+and fire more missiles at you.
+
+![Space Invaders](/SpaceInvaders.png)
+
+
+ Can you stand up to the challenge of protecting Earth from the aliens?
 
 ## Requirements
 1. Java 11 SDK
